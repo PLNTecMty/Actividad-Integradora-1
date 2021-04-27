@@ -36,10 +36,10 @@ Al ejecutar el programa, el usuario debe ingresar el término de búsqueda desea
 
 ## Autores 📝
 
-_Equipo 2_
+_Equipo 3_
 
 * **Adrian**
 * **Jorge**
-* **Daniel Jauregui**
+* **Daniel Jauregui Gómez**
 * **Fernando Isunza Fonseca**
 * **Paola **

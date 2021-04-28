@@ -48,17 +48,16 @@ En esta estapa del codigo se limpio y preparo una base de datos que contenia twe
 En esta etapa se prueban diferentes modelos de redes neuronales recurrentes simples, utilizando la libreria keras.
 
 
-
 ### Modelo 2 RNN Y Modelo 3 RNN
 
 Estas secciones fueron utilizadas para probar modelos de simple rnn que no pasaron del 50% de accuracy
 
 ### LSTM (Long Short-Term Memory) networks
- 
+ En esta etapa se prueban diferentes modelos de redes neuronales recurrentes LSTM, utilizando la libreria keras. Con diferentes hiperparamteros en busqueda de un mejor resultado.
 ### Modelo 2 
 
 ### Bidirectional LSTM (BRNN)
-
+En esta etapa se prueban diferentes modelos de redes neuronales recurrentes Bidireccionales, utilizando la libreria keras. Con diferentes hiperparamteros en busqueda de un mejor resultado.
 
 ### Bert
 Esta seccion es utilizada para correr un inferencias del modelo bert, este modelo fue entrenado en otro notebook: https://colab.research.google.com/drive/1LZ3-FGEd6JBsVlKkmamONMNcNpojsRYc?authuse
@@ -75,12 +74,6 @@ Esta sección corre una RNM de lstm y una red de lstm bidireccional. Lamentablem
 
 
 ### STREAMLIT
-
-### LSTM (Long Short-Term Memory) networks
-En esta etapa se prueban diferentes modelos de redes neuronales recurrentes LSTM, utilizando la libreria keras. Con diferentes hiperparamteros en busqueda de un mejor resultado.
-### Bidirectional LSTM (BRNN)
-En esta etapa se prueban diferentes modelos de redes neuronales recurrentes Bidireccionales, utilizando la libreria keras. Con diferentes hiperparamteros en busqueda de un mejor resultado.
-
 
 
 

@@ -89,7 +89,7 @@ En esta etapa se prueban diferentes modelos de redes neuronales recurrentes Bidi
 _Equipo 3_
 
 * **Adrian**
-* **Jorge**
+* **Jorge Mariles**
 * **Daniel Jauregui Gómez**
 * **Fernando Isunza Fonseca**
 * **Paola** 

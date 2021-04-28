@@ -7,11 +7,10 @@ Para esto se utilizaron diferentes modelos de clasificación de texto.
 ## Requerimientos ⚙️
 El código está hecho en un Jupyter Notebook con Python 3.
 
+### 1. Modelo Ensamble
+Se utiliza una base de datos de criticas de películas para evaluar si son positivas o negativas utilizando clasificadores establecidos.
 
-
-## 
-
-### 1. 
+### 2. 
 
 
 ## Autores 📝

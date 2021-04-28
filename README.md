@@ -25,38 +25,48 @@ nombre de usuario en "user"
 ### Reddit PRAW
 
 
-##RNN ARCHITECTURES
+## RNN ARCHITECTURES
+Para complemetar el módelo previamente realizado en la clase de procesamiento del lenguaje natural, se crearon redes neuronales recurrentes en tres arquitecturas diferentes. 
+A lo largo de toda esta sección se crearon tres arquitecturas principales, RNN simple, LSTM y Bidirectional RNN. Se crearon diferentes redes, con diferentes capas e hiperparametros para obtener una mejor precisión a la hora de predecir. 
+## DATA CLEANSING
+En esta estapa del codigo se limpio y preparo una base de datos que contenia tweets etiquetados. Con ayuda de la libreria ntlk se removieron las stopwords, puntuaciones y links en cada tweet. Para al final obtener, una base de datos que se pueda utilizar en el entrenamiento de las redes neuronales. 
+## Simple RNN
+En esta etapa se prueban diferentes modelos de redes neuronales recurrentes simples, utilizando la libreria keras.
 
-### DATA CLEANSING
-Esta parte solo fue utilizada para limpiar la base de datos “Sentiment140 dataset with 1.6 million tweets” , disponible en kaggle, de stop words “@” , etc. para poder entrenar las rnns y bert.
-##Simple RNN
 
-##Modelo 2 RNN Y Modelo 3 RNN
+
+### Modelo 2 RNN Y Modelo 3 RNN
 
 Estas secciones fueron utilizadas para probar modelos de simple rnn que no pasaron del 50% de accuracy
 
-##LSTM (Long Short-Term Memory) networks
+### LSTM (Long Short-Term Memory) networks
  
-## Modelo 2 
+### Modelo 2 
 
-##Bidirectional LSTM (BRNN)
+### Bidirectional LSTM (BRNN)
 
 
-##Bert
+### Bert
 Esta seccion es utilizada para correr un inferencias del modelo bert, este modelo fue entrenado en otro notebook: https://colab.research.google.com/drive/1LZ3-FGEd6JBsVlKkmamONMNcNpojsRYc?authuse
 Solo necesita las carpetas y scripts  necesarias de bert, un texto y el modelo entrenado en el link anterior.
 
-##GRU
+### GRU
 En esta sección se entreno una rnn gru, se guardo y luego con una celda se corre el modelo con cualquier texto para realizar una predicción
 
-##Rnns validation
+### Rnns validation
 Esta sección corre una RNM de lstm y una red de lstm bidireccional. Lamentablemente los entrenamientos de estas redes se perdieron ya que el colab fallo en guardar el kernel de ese momento, el accuracy de estos modelos se encontraba alrededor del 80%. Pero los modelos están guardados y pueden ser corridos con las celdas  disponibles.
 
-##BIDIRECTIONAL
+### BIDIRECTIONAL
 
-##LSTM
 
-##STREAMLIT
+
+### STREAMLIT
+
+## LSTM (Long Short-Term Memory) networks
+En esta etapa se prueban diferentes modelos de redes neuronales recurrentes LSTM, utilizando la libreria keras. Con diferentes hiperparamteros en busqueda de un mejor resultado.
+## Bidirectional LSTM (BRNN)
+En esta etapa se prueban diferentes modelos de redes neuronales recurrentes Bidireccionales, utilizando la libreria keras. Con diferentes hiperparamteros en busqueda de un mejor resultado.
+
 
 
 

@@ -17,7 +17,7 @@ Twitter data:https://drive.google.com/file/d/1ofTAKF5Hg50m-1GUuWYb2EeOpWvmNjlu/v
 
 
 
--Desde este punto se explicaran los contenidos del notebook
+## Avtividad integradora contenidos
 
 ### Modelo Ensamble
 Para los modelos de nltk se utiliza una base de datos de criticas de películas para evaluar si son positivas o negativas utilizando clasificadores establecidos.

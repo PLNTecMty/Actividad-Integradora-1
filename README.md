@@ -21,4 +21,4 @@ _Equipo 3_
 * **Jorge**
 * **Daniel Jauregui Gómez**
 * **Fernando Isunza Fonseca**
-* **Paola **
+* **Paola 

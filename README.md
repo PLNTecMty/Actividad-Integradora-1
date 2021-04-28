@@ -6,6 +6,16 @@ Para esto se utilizaron diferentes modelos de clasificación de texto.
 
 ## Requerimientos ⚙️
 El código está hecho en un Jupyter Notebook con Python 3.
+Para poder correr el codigo es necesario modelos y carpetas que podran ser encontrados en:
+Bert: https://drive.google.com/drive/folders/1yW85oTu1QoWCcHDDWXHuZPz_1FzHkC-Y?usp=sharing
+Datasets:https://drive.google.com/drive/folders/1jUdgEgJg_9HBD5qOjoOU7588qtrEnbBV?usp=sharing
+Pickles de nltk:https://drive.google.com/drive/folders/1htOuDJZcQcUsbtHvK9gjNSN4FYYg5KZi?usp=sharing
+Modelo de lstm bidirectional:https://drive.google.com/drive/folders/1-M6b4gPP8XYFhteOORckacs4fGXk7kbb?usp=sharing
+Modelo de Gru:https://drive.google.com/drive/folders/1s04QDkmWtcL6eAnrNfFtolFPVEFRMaRg?usp=sharing
+Modelo de lstm:https://drive.google.com/drive/folders/1s04QDkmWtcL6eAnrNfFtolFPVEFRMaRg?usp=sharing
+Twitter data:https://drive.google.com/file/d/1ofTAKF5Hg50m-1GUuWYb2EeOpWvmNjlu/view?usp=sharing
+
+
 
 -Desde este punto se explicaran los contenidos del notebook
 

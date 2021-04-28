@@ -92,4 +92,4 @@ _Equipo 3_
 * **Jorge Mariles**
 * **Daniel Jauregui Gómez**
 * **Fernando Isunza Fonseca**
-* **Paola** 
+* **Paola Gabriela Almada** 

@@ -54,7 +54,7 @@ Estas secciones fueron utilizadas para probar modelos de simple rnn que no pasar
 
 ### LSTM (Long Short-Term Memory) networks
  En esta etapa se prueban diferentes modelos de redes neuronales recurrentes LSTM, utilizando la libreria keras. Con diferentes hiperparamteros en busqueda de un mejor resultado.
-### Modelo 2 
+
 
 ### Bidirectional LSTM (BRNN)
 En esta etapa se prueban diferentes modelos de redes neuronales recurrentes Bidireccionales, utilizando la libreria keras. Con diferentes hiperparamteros en busqueda de un mejor resultado.
@@ -69,12 +69,11 @@ En esta sección se entreno una rnn gru, se guardo y luego con una celda se corr
 ### Rnns validation
 Esta sección corre una RNM de lstm y una red de lstm bidireccional. Lamentablemente los entrenamientos de estas redes se perdieron ya que el colab fallo en guardar el kernel de ese momento, el accuracy de estos modelos se encontraba alrededor del 80%. Pero los modelos están guardados y pueden ser corridos con las celdas  disponibles.
 
-### BIDIRECTIONAL
 
 
 
 ### STREAMLIT
-
+Para poder correr streamlit desde colab es necesario crear una cuenta gratuita en  Ngrok lo cual nos permite crear un tunel seguro entre nuestro sistema local hacia el publico y elegir el puerto para el deployment. Despues es necesario instalar streamlit ngrok con pip install. Despues del pip install se creo un framework en donde se puede crear una oracion tanto positiva como negativa y se puede elegir el modelo realizado con keras para poder hacer la prediccion. Mientras que cuando se escoge la opcion de social media esta prediccion se realiza mediaante el modulo de sentiment_mod.py que se realizo en actividades pasadas. Para eso es necesario que el .py se encuentre en el directorio/
 
 
 

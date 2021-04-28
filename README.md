@@ -33,7 +33,11 @@ nombre de usuario en "user"
 
 
 ### Reddit PRAW
+En esta sección se conecta a una instancia de PRAW y se puede hacer una búsqueda por usuario de las publicaciones que ha hecho. Estas publicaciones han sido procesadas para eliminar links,
+subreddits y usuarios.
 
+### Youtube API
+En esta sección se conecta al API de youtube mediante una API Key y se implementó la funcionalidad de buscar por video de youtube los comentarios del video.
 
 ### RNN ARCHITECTURES
 Para complemetar el módelo previamente realizado en la clase de procesamiento del lenguaje natural, se crearon redes neuronales recurrentes en tres arquitecturas diferentes. 
@@ -88,7 +92,7 @@ En esta etapa se prueban diferentes modelos de redes neuronales recurrentes Bidi
 
 _Equipo 3_
 
-* **Adrian**
+* **Adrian Mancilla Uribe**
 * **Jorge Mariles**
 * **Daniel Jauregui Gómez**
 * **Fernando Isunza Fonseca**

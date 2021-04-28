@@ -20,32 +20,29 @@ Para los modelos de nltk se utiliza una base de datos de criticas de películas 
 ### Reddit PRAW
 
 
-##RNN ARCHITECTURES
+## RNN ARCHITECTURES
+Para complemetar el módelo previamente realizado en la clase de procesamiento del lenguaje natural, se crearon redes neuronales recurrentes en tres arquitecturas diferentes. 
+A lo largo de toda esta sección se crearon tres arquitecturas principales, RNN simple, LSTM y Bidirectional RNN. Se crearon diferentes redes, con diferentes capas e hiperparametros para obtener una mejor precisión a la hora de predecir. 
+## DATA CLEANSING
+En esta estapa del codigo se limpio y preparo una base de datos que contenia tweets etiquetados. Con ayuda de la libreria ntlk se removieron las stopwords, puntuaciones y links en cada tweet. Para al final obtener, una base de datos que se pueda utilizar en el entrenamiento de las redes neuronales. 
+## Simple RNN
+En esta etapa se prueban diferentes modelos de redes neuronales recurrentes simples, utilizando la libreria keras.
 
-##DATA CLEANSING
+## LSTM (Long Short-Term Memory) networks
+En esta etapa se prueban diferentes modelos de redes neuronales recurrentes LSTM, utilizando la libreria keras. Con diferentes hiperparamteros en busqueda de un mejor resultado.
+## Bidirectional LSTM (BRNN)
+En esta etapa se prueban diferentes modelos de redes neuronales recurrentes Bidireccionales, utilizando la libreria keras. Con diferentes hiperparamteros en busqueda de un mejor resultado.
 
-##Simple RNN
+## Bert
 
-##Modelo 2 RNN
+## GRU
+## Rnns validation
 
-##Modelo 3 RNN
+## BIDIRECTIONAL
 
-##LSTM (Long Short-Term Memory) networks
+## LSTM
 
-##Modelo 2 LSTM
-##Bidirectional LSTM (BRNN)
-
-
-##Bert
-
-##GRU
-##Rnns validation
-
-##BIDIRECTIONAL
-
-##LSTM
-
-##STREAMLIT
+## STREAMLIT
 
 
 

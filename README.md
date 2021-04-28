@@ -7,10 +7,49 @@ Para esto se utilizaron diferentes modelos de clasificación de texto.
 ## Requerimientos ⚙️
 El código está hecho en un Jupyter Notebook con Python 3.
 
-### 1. Modelo Ensamble
-Se utiliza una base de datos de criticas de películas para evaluar si son positivas o negativas utilizando clasificadores establecidos.
+### Modelo Ensamble
+Para los modelos de nltk se utiliza una base de datos de criticas de películas para evaluar si son positivas o negativas utilizando clasificadores establecidos.
 
-### 2. 
+### Speach to text
+
+### Twitter
+
+
+### Filtrar por usuario
+
+### Reddit PRAW
+
+
+##RNN ARCHITECTURES
+
+##DATA CLEANSING
+
+##Simple RNN
+
+##Modelo 2 RNN
+
+##Modelo 3 RNN
+
+##LSTM (Long Short-Term Memory) networks
+
+##Modelo 2 LSTM
+##Bidirectional LSTM (BRNN)
+
+
+##Bert
+
+##GRU
+##Rnns validation
+
+##BIDIRECTIONAL
+
+##LSTM
+
+##STREAMLIT
+
+
+
+
 
 
 ## Autores 📝

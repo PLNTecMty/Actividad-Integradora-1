@@ -25,12 +25,12 @@ nombre de usuario en "user"
 ### Reddit PRAW
 
 
-## RNN ARCHITECTURES
+### RNN ARCHITECTURES
 Para complemetar el módelo previamente realizado en la clase de procesamiento del lenguaje natural, se crearon redes neuronales recurrentes en tres arquitecturas diferentes. 
 A lo largo de toda esta sección se crearon tres arquitecturas principales, RNN simple, LSTM y Bidirectional RNN. Se crearon diferentes redes, con diferentes capas e hiperparametros para obtener una mejor precisión a la hora de predecir. 
-## DATA CLEANSING
+### DATA CLEANSING
 En esta estapa del codigo se limpio y preparo una base de datos que contenia tweets etiquetados. Con ayuda de la libreria ntlk se removieron las stopwords, puntuaciones y links en cada tweet. Para al final obtener, una base de datos que se pueda utilizar en el entrenamiento de las redes neuronales. 
-## Simple RNN
+### Simple RNN
 En esta etapa se prueban diferentes modelos de redes neuronales recurrentes simples, utilizando la libreria keras.
 
 
@@ -62,9 +62,9 @@ Esta sección corre una RNM de lstm y una red de lstm bidireccional. Lamentablem
 
 ### STREAMLIT
 
-## LSTM (Long Short-Term Memory) networks
+### LSTM (Long Short-Term Memory) networks
 En esta etapa se prueban diferentes modelos de redes neuronales recurrentes LSTM, utilizando la libreria keras. Con diferentes hiperparamteros en busqueda de un mejor resultado.
-## Bidirectional LSTM (BRNN)
+### Bidirectional LSTM (BRNN)
 En esta etapa se prueban diferentes modelos de redes neuronales recurrentes Bidireccionales, utilizando la libreria keras. Con diferentes hiperparamteros en busqueda de un mejor resultado.
 
 
